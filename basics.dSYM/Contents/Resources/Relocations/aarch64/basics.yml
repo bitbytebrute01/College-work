@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/adityajoshi/Documents/college-work/dev-ops-college/basics'
+relocations:     []
+...
